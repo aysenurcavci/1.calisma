@@ -59,7 +59,7 @@ $todolist = $app->getTodos();
 
     <table cellspacing="5" cellpadding="6" >
         <tr>
-            <td align="center" colspan="5" >TODO</td>
+            <td align="center" colspan="5" >TO DO</td>
         </tr>
         <tr>
             <td colspan="2"width="300" align="center">Yapılacaklar</td>
